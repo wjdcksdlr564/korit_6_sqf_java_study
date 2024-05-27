@@ -1,0 +1,14 @@
+intelliJ
+sourcetree
+Git
+
+복사 -> shift insert
+HEAD -> 현재 위치
+git che`ckout 앞자리 6개이상(commit) -> 그때로 돌아가기
+git reset HEAD^ -> 원래 헤드로 돌아가기
+git checkout main -> 메인으로 돌아가기
+
+순서 : git add . -> git commit -m"파일이름" -> git push
+
+git fetch - 동기화 확인
+git pull - 동기화가 안되었을때, 바꾼 점을 가져오는것(땡기어)
